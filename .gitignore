@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+demo/preproc_data/*.csv
+demo/data/*.csv
+demo/models/
